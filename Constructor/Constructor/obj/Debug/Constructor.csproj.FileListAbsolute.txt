@@ -1,0 +1,6 @@
+c:\users\apoll\documents\visual studio 2013\Projects\Constructor\Constructor\bin\Debug\Constructor.exe.config
+c:\users\apoll\documents\visual studio 2013\Projects\Constructor\Constructor\obj\Debug\Constructor.csprojResolveAssemblyReference.cache
+c:\users\apoll\documents\visual studio 2013\Projects\Constructor\Constructor\bin\Debug\Constructor.exe
+c:\users\apoll\documents\visual studio 2013\Projects\Constructor\Constructor\bin\Debug\Constructor.pdb
+c:\users\apoll\documents\visual studio 2013\Projects\Constructor\Constructor\obj\Debug\Constructor.exe
+c:\users\apoll\documents\visual studio 2013\Projects\Constructor\Constructor\obj\Debug\Constructor.pdb

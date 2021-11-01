@@ -1,0 +1,6 @@
+c:\users\apoll\documents\visual studio 2013\Projects\GetnSetMethods\GetnSetMethods\bin\Debug\GetnSetMethods.exe.config
+c:\users\apoll\documents\visual studio 2013\Projects\GetnSetMethods\GetnSetMethods\obj\Debug\GetnSetMethods.csprojResolveAssemblyReference.cache
+c:\users\apoll\documents\visual studio 2013\Projects\GetnSetMethods\GetnSetMethods\bin\Debug\GetnSetMethods.exe
+c:\users\apoll\documents\visual studio 2013\Projects\GetnSetMethods\GetnSetMethods\bin\Debug\GetnSetMethods.pdb
+c:\users\apoll\documents\visual studio 2013\Projects\GetnSetMethods\GetnSetMethods\obj\Debug\GetnSetMethods.exe
+c:\users\apoll\documents\visual studio 2013\Projects\GetnSetMethods\GetnSetMethods\obj\Debug\GetnSetMethods.pdb

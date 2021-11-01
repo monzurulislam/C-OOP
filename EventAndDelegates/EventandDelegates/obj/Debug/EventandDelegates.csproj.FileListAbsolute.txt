@@ -1,0 +1,6 @@
+C:\Users\apoll\Documents\Visual Studio 2013\Projects\EventandDelegates\EventandDelegates\bin\Debug\EventandDelegates.exe.config
+C:\Users\apoll\Documents\Visual Studio 2013\Projects\EventandDelegates\EventandDelegates\bin\Debug\EventandDelegates.exe
+C:\Users\apoll\Documents\Visual Studio 2013\Projects\EventandDelegates\EventandDelegates\bin\Debug\EventandDelegates.pdb
+C:\Users\apoll\Documents\Visual Studio 2013\Projects\EventandDelegates\EventandDelegates\obj\Debug\EventandDelegates.csprojResolveAssemblyReference.cache
+C:\Users\apoll\Documents\Visual Studio 2013\Projects\EventandDelegates\EventandDelegates\obj\Debug\EventandDelegates.exe
+C:\Users\apoll\Documents\Visual Studio 2013\Projects\EventandDelegates\EventandDelegates\obj\Debug\EventandDelegates.pdb

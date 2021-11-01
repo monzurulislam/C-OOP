@@ -1,0 +1,5 @@
+C:\Users\apoll\Documents\Visual Studio 2013\Projects\Attributes\Attributes\bin\Release\Attributes.exe.config
+C:\Users\apoll\Documents\Visual Studio 2013\Projects\Attributes\Attributes\bin\Release\Attributes.exe
+C:\Users\apoll\Documents\Visual Studio 2013\Projects\Attributes\Attributes\bin\Release\Attributes.pdb
+C:\Users\apoll\Documents\Visual Studio 2013\Projects\Attributes\Attributes\obj\Release\Attributes.exe
+C:\Users\apoll\Documents\Visual Studio 2013\Projects\Attributes\Attributes\obj\Release\Attributes.pdb

@@ -1,0 +1,6 @@
+C:\Users\apoll\Documents\Visual Studio 2013\Projects\GetSetMethods_2\GetSetMethods_2\bin\Debug\GetSetMethods_2.exe.config
+C:\Users\apoll\Documents\Visual Studio 2013\Projects\GetSetMethods_2\GetSetMethods_2\bin\Debug\GetSetMethods_2.exe
+C:\Users\apoll\Documents\Visual Studio 2013\Projects\GetSetMethods_2\GetSetMethods_2\bin\Debug\GetSetMethods_2.pdb
+C:\Users\apoll\Documents\Visual Studio 2013\Projects\GetSetMethods_2\GetSetMethods_2\obj\Debug\GetSetMethods_2.csprojResolveAssemblyReference.cache
+C:\Users\apoll\Documents\Visual Studio 2013\Projects\GetSetMethods_2\GetSetMethods_2\obj\Debug\GetSetMethods_2.exe
+C:\Users\apoll\Documents\Visual Studio 2013\Projects\GetSetMethods_2\GetSetMethods_2\obj\Debug\GetSetMethods_2.pdb

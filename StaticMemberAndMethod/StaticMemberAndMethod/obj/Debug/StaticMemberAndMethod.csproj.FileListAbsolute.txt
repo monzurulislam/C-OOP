@@ -1,0 +1,6 @@
+c:\users\apoll\documents\visual studio 2013\Projects\StaticMemberAndMethod\StaticMemberAndMethod\bin\Debug\StaticMemberAndMethod.exe.config
+c:\users\apoll\documents\visual studio 2013\Projects\StaticMemberAndMethod\StaticMemberAndMethod\bin\Debug\StaticMemberAndMethod.exe
+c:\users\apoll\documents\visual studio 2013\Projects\StaticMemberAndMethod\StaticMemberAndMethod\bin\Debug\StaticMemberAndMethod.pdb
+c:\users\apoll\documents\visual studio 2013\Projects\StaticMemberAndMethod\StaticMemberAndMethod\obj\Debug\StaticMemberAndMethod.csprojResolveAssemblyReference.cache
+c:\users\apoll\documents\visual studio 2013\Projects\StaticMemberAndMethod\StaticMemberAndMethod\obj\Debug\StaticMemberAndMethod.exe
+c:\users\apoll\documents\visual studio 2013\Projects\StaticMemberAndMethod\StaticMemberAndMethod\obj\Debug\StaticMemberAndMethod.pdb

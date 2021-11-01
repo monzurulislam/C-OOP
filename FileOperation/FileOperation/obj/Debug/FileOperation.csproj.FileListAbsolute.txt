@@ -1,0 +1,6 @@
+c:\users\apoll\documents\visual studio 2013\Projects\FileOperation\FileOperation\bin\Debug\FileOperation.exe.config
+c:\users\apoll\documents\visual studio 2013\Projects\FileOperation\FileOperation\bin\Debug\FileOperation.exe
+c:\users\apoll\documents\visual studio 2013\Projects\FileOperation\FileOperation\bin\Debug\FileOperation.pdb
+c:\users\apoll\documents\visual studio 2013\Projects\FileOperation\FileOperation\obj\Debug\FileOperation.csprojResolveAssemblyReference.cache
+c:\users\apoll\documents\visual studio 2013\Projects\FileOperation\FileOperation\obj\Debug\FileOperation.exe
+c:\users\apoll\documents\visual studio 2013\Projects\FileOperation\FileOperation\obj\Debug\FileOperation.pdb

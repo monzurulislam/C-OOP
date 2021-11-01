@@ -1,0 +1,6 @@
+c:\users\apoll\documents\visual studio 2013\Projects\Virtula_and_Override\Virtula_and_Override\bin\Debug\Virtula_and_Override.exe.config
+c:\users\apoll\documents\visual studio 2013\Projects\Virtula_and_Override\Virtula_and_Override\obj\Debug\Virtula_and_Override.csprojResolveAssemblyReference.cache
+c:\users\apoll\documents\visual studio 2013\Projects\Virtula_and_Override\Virtula_and_Override\bin\Debug\Virtula_and_Override.exe
+c:\users\apoll\documents\visual studio 2013\Projects\Virtula_and_Override\Virtula_and_Override\bin\Debug\Virtula_and_Override.pdb
+c:\users\apoll\documents\visual studio 2013\Projects\Virtula_and_Override\Virtula_and_Override\obj\Debug\Virtula_and_Override.exe
+c:\users\apoll\documents\visual studio 2013\Projects\Virtula_and_Override\Virtula_and_Override\obj\Debug\Virtula_and_Override.pdb

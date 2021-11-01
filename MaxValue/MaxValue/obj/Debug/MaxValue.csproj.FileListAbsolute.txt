@@ -1,0 +1,9 @@
+C:\Users\apoll\Documents\Visual Studio 2013\Projects\MaxValue\MaxValue\bin\Debug\MaxValue.exe.config
+C:\Users\apoll\Documents\Visual Studio 2013\Projects\MaxValue\MaxValue\obj\Debug\MaxValue.csprojResolveAssemblyReference.cache
+C:\Users\apoll\Documents\Visual Studio 2013\Projects\MaxValue\MaxValue\obj\Debug\MaxValue.Form1.resources
+C:\Users\apoll\Documents\Visual Studio 2013\Projects\MaxValue\MaxValue\obj\Debug\MaxValue.Properties.Resources.resources
+C:\Users\apoll\Documents\Visual Studio 2013\Projects\MaxValue\MaxValue\obj\Debug\MaxValue.csproj.GenerateResource.Cache
+C:\Users\apoll\Documents\Visual Studio 2013\Projects\MaxValue\MaxValue\bin\Debug\MaxValue.exe
+C:\Users\apoll\Documents\Visual Studio 2013\Projects\MaxValue\MaxValue\bin\Debug\MaxValue.pdb
+C:\Users\apoll\Documents\Visual Studio 2013\Projects\MaxValue\MaxValue\obj\Debug\MaxValue.exe
+C:\Users\apoll\Documents\Visual Studio 2013\Projects\MaxValue\MaxValue\obj\Debug\MaxValue.pdb

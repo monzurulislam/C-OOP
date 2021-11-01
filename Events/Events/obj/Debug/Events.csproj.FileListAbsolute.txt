@@ -1,0 +1,6 @@
+c:\users\apoll\documents\visual studio 2013\Projects\Events\Events\bin\Debug\Events.exe.config
+c:\users\apoll\documents\visual studio 2013\Projects\Events\Events\obj\Debug\Events.csprojResolveAssemblyReference.cache
+c:\users\apoll\documents\visual studio 2013\Projects\Events\Events\bin\Debug\Events.exe
+c:\users\apoll\documents\visual studio 2013\Projects\Events\Events\bin\Debug\Events.pdb
+c:\users\apoll\documents\visual studio 2013\Projects\Events\Events\obj\Debug\Events.exe
+c:\users\apoll\documents\visual studio 2013\Projects\Events\Events\obj\Debug\Events.pdb

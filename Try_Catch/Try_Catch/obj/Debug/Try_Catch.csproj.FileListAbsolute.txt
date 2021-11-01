@@ -1,0 +1,6 @@
+c:\users\apoll\documents\visual studio 2013\Projects\Try_Catch\Try_Catch\bin\Debug\Try_Catch.exe.config
+c:\users\apoll\documents\visual studio 2013\Projects\Try_Catch\Try_Catch\bin\Debug\Try_Catch.exe
+c:\users\apoll\documents\visual studio 2013\Projects\Try_Catch\Try_Catch\bin\Debug\Try_Catch.pdb
+c:\users\apoll\documents\visual studio 2013\Projects\Try_Catch\Try_Catch\obj\Debug\Try_Catch.csprojResolveAssemblyReference.cache
+c:\users\apoll\documents\visual studio 2013\Projects\Try_Catch\Try_Catch\obj\Debug\Try_Catch.exe
+c:\users\apoll\documents\visual studio 2013\Projects\Try_Catch\Try_Catch\obj\Debug\Try_Catch.pdb

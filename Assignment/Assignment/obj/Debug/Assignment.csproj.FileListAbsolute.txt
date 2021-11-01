@@ -1,0 +1,6 @@
+C:\Users\apoll\Documents\Visual Studio 2013\Projects\Assignment\Assignment\bin\Debug\Assignment.exe.config
+C:\Users\apoll\Documents\Visual Studio 2013\Projects\Assignment\Assignment\obj\Debug\Assignment.csprojResolveAssemblyReference.cache
+C:\Users\apoll\Documents\Visual Studio 2013\Projects\Assignment\Assignment\bin\Debug\Assignment.exe
+C:\Users\apoll\Documents\Visual Studio 2013\Projects\Assignment\Assignment\bin\Debug\Assignment.pdb
+C:\Users\apoll\Documents\Visual Studio 2013\Projects\Assignment\Assignment\obj\Debug\Assignment.exe
+C:\Users\apoll\Documents\Visual Studio 2013\Projects\Assignment\Assignment\obj\Debug\Assignment.pdb

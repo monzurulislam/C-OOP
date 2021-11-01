@@ -1,0 +1,6 @@
+C:\Users\apoll\Documents\Visual Studio 2013\Projects\PracticeDemo\PracticeDemo\bin\Debug\PracticeDemo.exe.config
+C:\Users\apoll\Documents\Visual Studio 2013\Projects\PracticeDemo\PracticeDemo\bin\Debug\PracticeDemo.exe
+C:\Users\apoll\Documents\Visual Studio 2013\Projects\PracticeDemo\PracticeDemo\bin\Debug\PracticeDemo.pdb
+C:\Users\apoll\Documents\Visual Studio 2013\Projects\PracticeDemo\PracticeDemo\obj\Debug\PracticeDemo.exe
+C:\Users\apoll\Documents\Visual Studio 2013\Projects\PracticeDemo\PracticeDemo\obj\Debug\PracticeDemo.pdb
+C:\Users\apoll\Documents\Visual Studio 2013\Projects\PracticeDemo\PracticeDemo\obj\Debug\PracticeDemo.csprojResolveAssemblyReference.cache

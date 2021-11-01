@@ -1,0 +1,10 @@
+G:\My Educational Drive\My Work\MY Blogs\Blogs\CodeProject\Factory Vs Abstract\Source Code\Abstract Factory\CustomerLibrary\bin\Debug\CustomerLibrary.dll
+G:\My Educational Drive\My Work\MY Blogs\Blogs\CodeProject\Factory Vs Abstract\Source Code\Abstract Factory\CustomerLibrary\bin\Debug\CustomerLibrary.pdb
+G:\My Educational Drive\My Work\MY Blogs\Blogs\CodeProject\Factory Vs Abstract\Source Code\Abstract Factory\CustomerLibrary\obj\Debug\Desktop Pheripherals.csprojResolveAssemblyReference.cache
+G:\My Educational Drive\My Work\MY Blogs\Blogs\CodeProject\Factory Vs Abstract\Source Code\Abstract Factory\CustomerLibrary\obj\Debug\CustomerLibrary.dll
+G:\My Educational Drive\My Work\MY Blogs\Blogs\CodeProject\Factory Vs Abstract\Source Code\Abstract Factory\CustomerLibrary\obj\Debug\CustomerLibrary.pdb
+C:\Users\apoll\Desktop\Abstract Factory\CustomerLibrary\bin\Debug\CustomerLibrary.dll
+C:\Users\apoll\Desktop\Abstract Factory\CustomerLibrary\bin\Debug\CustomerLibrary.pdb
+C:\Users\apoll\Desktop\Abstract Factory\CustomerLibrary\obj\Debug\Desktop Pheripherals.csprojResolveAssemblyReference.cache
+C:\Users\apoll\Desktop\Abstract Factory\CustomerLibrary\obj\Debug\CustomerLibrary.dll
+C:\Users\apoll\Desktop\Abstract Factory\CustomerLibrary\obj\Debug\CustomerLibrary.pdb

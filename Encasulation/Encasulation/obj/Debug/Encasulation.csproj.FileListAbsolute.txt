@@ -1,0 +1,6 @@
+c:\users\apoll\documents\visual studio 2013\Projects\Encasulation\Encasulation\bin\Debug\Encasulation.exe.config
+C:\Users\apoll\Documents\Visual Studio 2013\Projects\Encasulation\Encasulation\bin\Debug\Encasulation.exe
+C:\Users\apoll\Documents\Visual Studio 2013\Projects\Encasulation\Encasulation\bin\Debug\Encasulation.pdb
+C:\Users\apoll\Documents\Visual Studio 2013\Projects\Encasulation\Encasulation\obj\Debug\Encasulation.csprojResolveAssemblyReference.cache
+C:\Users\apoll\Documents\Visual Studio 2013\Projects\Encasulation\Encasulation\obj\Debug\Encasulation.exe
+C:\Users\apoll\Documents\Visual Studio 2013\Projects\Encasulation\Encasulation\obj\Debug\Encasulation.pdb

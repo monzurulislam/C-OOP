@@ -1,0 +1,6 @@
+c:\users\apoll\documents\visual studio 2013\Projects\Abstarction\Abstarction\bin\Debug\Abstarction.exe.config
+c:\users\apoll\documents\visual studio 2013\Projects\Abstarction\Abstarction\obj\Debug\Abstarction.csprojResolveAssemblyReference.cache
+c:\users\apoll\documents\visual studio 2013\Projects\Abstarction\Abstarction\bin\Debug\Abstarction.exe
+c:\users\apoll\documents\visual studio 2013\Projects\Abstarction\Abstarction\bin\Debug\Abstarction.pdb
+c:\users\apoll\documents\visual studio 2013\Projects\Abstarction\Abstarction\obj\Debug\Abstarction.exe
+c:\users\apoll\documents\visual studio 2013\Projects\Abstarction\Abstarction\obj\Debug\Abstarction.pdb

@@ -1,0 +1,6 @@
+C:\Users\apoll\Documents\Visual Studio 2013\Projects\ByteArrayOperations\ByteArrayOperations\bin\Debug\ByteArrayOperations.exe.config
+C:\Users\apoll\Documents\Visual Studio 2013\Projects\ByteArrayOperations\ByteArrayOperations\bin\Debug\ByteArrayOperations.exe
+C:\Users\apoll\Documents\Visual Studio 2013\Projects\ByteArrayOperations\ByteArrayOperations\bin\Debug\ByteArrayOperations.pdb
+C:\Users\apoll\Documents\Visual Studio 2013\Projects\ByteArrayOperations\ByteArrayOperations\obj\Debug\ByteArrayOperations.csprojResolveAssemblyReference.cache
+C:\Users\apoll\Documents\Visual Studio 2013\Projects\ByteArrayOperations\ByteArrayOperations\obj\Debug\ByteArrayOperations.exe
+C:\Users\apoll\Documents\Visual Studio 2013\Projects\ByteArrayOperations\ByteArrayOperations\obj\Debug\ByteArrayOperations.pdb

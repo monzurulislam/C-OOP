@@ -1,0 +1,6 @@
+C:\Users\apoll\Documents\Visual Studio 2013\Projects\Sorted_List\Sorted_List\bin\Debug\Sorted_List.exe.config
+C:\Users\apoll\Documents\Visual Studio 2013\Projects\Sorted_List\Sorted_List\bin\Debug\Sorted_List.exe
+C:\Users\apoll\Documents\Visual Studio 2013\Projects\Sorted_List\Sorted_List\bin\Debug\Sorted_List.pdb
+C:\Users\apoll\Documents\Visual Studio 2013\Projects\Sorted_List\Sorted_List\obj\Debug\Sorted_List.csprojResolveAssemblyReference.cache
+C:\Users\apoll\Documents\Visual Studio 2013\Projects\Sorted_List\Sorted_List\obj\Debug\Sorted_List.exe
+C:\Users\apoll\Documents\Visual Studio 2013\Projects\Sorted_List\Sorted_List\obj\Debug\Sorted_List.pdb

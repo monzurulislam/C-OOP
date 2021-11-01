@@ -1,0 +1,6 @@
+C:\Users\apoll\Documents\Visual Studio 2013\Projects\DESIGN PATTERN\StrategyPattern\StrategyPattern\bin\Debug\StrategyPattern.exe.config
+C:\Users\apoll\Documents\Visual Studio 2013\Projects\DESIGN PATTERN\StrategyPattern\StrategyPattern\bin\Debug\StrategyPattern.exe
+C:\Users\apoll\Documents\Visual Studio 2013\Projects\DESIGN PATTERN\StrategyPattern\StrategyPattern\bin\Debug\StrategyPattern.pdb
+C:\Users\apoll\Documents\Visual Studio 2013\Projects\DESIGN PATTERN\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.csprojResolveAssemblyReference.cache
+C:\Users\apoll\Documents\Visual Studio 2013\Projects\DESIGN PATTERN\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.exe
+C:\Users\apoll\Documents\Visual Studio 2013\Projects\DESIGN PATTERN\StrategyPattern\StrategyPattern\obj\Debug\StrategyPattern.pdb

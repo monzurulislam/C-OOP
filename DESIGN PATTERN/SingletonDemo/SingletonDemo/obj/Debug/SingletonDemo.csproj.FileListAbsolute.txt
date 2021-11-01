@@ -1,0 +1,6 @@
+C:\Users\apoll\Documents\Visual Studio 2013\Projects\DESIGN PATTERN\SingletonDemo\SingletonDemo\bin\Debug\SingletonDemo.exe.config
+C:\Users\apoll\Documents\Visual Studio 2013\Projects\DESIGN PATTERN\SingletonDemo\SingletonDemo\obj\Debug\SingletonDemo.csprojResolveAssemblyReference.cache
+C:\Users\apoll\Documents\Visual Studio 2013\Projects\DESIGN PATTERN\SingletonDemo\SingletonDemo\bin\Debug\SingletonDemo.exe
+C:\Users\apoll\Documents\Visual Studio 2013\Projects\DESIGN PATTERN\SingletonDemo\SingletonDemo\bin\Debug\SingletonDemo.pdb
+C:\Users\apoll\Documents\Visual Studio 2013\Projects\DESIGN PATTERN\SingletonDemo\SingletonDemo\obj\Debug\SingletonDemo.exe
+C:\Users\apoll\Documents\Visual Studio 2013\Projects\DESIGN PATTERN\SingletonDemo\SingletonDemo\obj\Debug\SingletonDemo.pdb

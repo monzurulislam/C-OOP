@@ -1,0 +1,6 @@
+C:\Users\apoll\Documents\Visual Studio 2013\Projects\LamdaActionFunc\LamdaActionFunc\bin\Debug\LamdaActionFunc.exe.config
+C:\Users\apoll\Documents\Visual Studio 2013\Projects\LamdaActionFunc\LamdaActionFunc\bin\Debug\LamdaActionFunc.exe
+C:\Users\apoll\Documents\Visual Studio 2013\Projects\LamdaActionFunc\LamdaActionFunc\bin\Debug\LamdaActionFunc.pdb
+C:\Users\apoll\Documents\Visual Studio 2013\Projects\LamdaActionFunc\LamdaActionFunc\obj\Debug\LamdaActionFunc.csprojResolveAssemblyReference.cache
+C:\Users\apoll\Documents\Visual Studio 2013\Projects\LamdaActionFunc\LamdaActionFunc\obj\Debug\LamdaActionFunc.exe
+C:\Users\apoll\Documents\Visual Studio 2013\Projects\LamdaActionFunc\LamdaActionFunc\obj\Debug\LamdaActionFunc.pdb

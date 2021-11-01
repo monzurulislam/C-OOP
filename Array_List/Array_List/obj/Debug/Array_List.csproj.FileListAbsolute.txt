@@ -1,0 +1,6 @@
+C:\Users\apoll\Documents\Visual Studio 2013\Projects\Array_List\Array_List\bin\Debug\Array_List.exe.config
+C:\Users\apoll\Documents\Visual Studio 2013\Projects\Array_List\Array_List\bin\Debug\Array_List.exe
+C:\Users\apoll\Documents\Visual Studio 2013\Projects\Array_List\Array_List\bin\Debug\Array_List.pdb
+C:\Users\apoll\Documents\Visual Studio 2013\Projects\Array_List\Array_List\obj\Debug\Array_List.csprojResolveAssemblyReference.cache
+C:\Users\apoll\Documents\Visual Studio 2013\Projects\Array_List\Array_List\obj\Debug\Array_List.exe
+C:\Users\apoll\Documents\Visual Studio 2013\Projects\Array_List\Array_List\obj\Debug\Array_List.pdb

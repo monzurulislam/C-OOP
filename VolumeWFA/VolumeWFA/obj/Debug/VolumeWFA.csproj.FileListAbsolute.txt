@@ -1,0 +1,9 @@
+c:\users\apoll\documents\visual studio 2013\Projects\VolumeWFA\VolumeWFA\bin\Debug\VolumeWFA.exe.config
+c:\users\apoll\documents\visual studio 2013\Projects\VolumeWFA\VolumeWFA\obj\Debug\VolumeWFA.csprojResolveAssemblyReference.cache
+c:\users\apoll\documents\visual studio 2013\Projects\VolumeWFA\VolumeWFA\obj\Debug\VolumeWFA.Form1.resources
+c:\users\apoll\documents\visual studio 2013\Projects\VolumeWFA\VolumeWFA\obj\Debug\VolumeWFA.Properties.Resources.resources
+c:\users\apoll\documents\visual studio 2013\Projects\VolumeWFA\VolumeWFA\obj\Debug\VolumeWFA.csproj.GenerateResource.Cache
+c:\users\apoll\documents\visual studio 2013\Projects\VolumeWFA\VolumeWFA\bin\Debug\VolumeWFA.exe
+c:\users\apoll\documents\visual studio 2013\Projects\VolumeWFA\VolumeWFA\bin\Debug\VolumeWFA.pdb
+c:\users\apoll\documents\visual studio 2013\Projects\VolumeWFA\VolumeWFA\obj\Debug\VolumeWFA.exe
+c:\users\apoll\documents\visual studio 2013\Projects\VolumeWFA\VolumeWFA\obj\Debug\VolumeWFA.pdb

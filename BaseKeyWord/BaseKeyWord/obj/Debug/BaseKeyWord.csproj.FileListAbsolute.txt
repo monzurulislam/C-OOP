@@ -1,0 +1,5 @@
+c:\users\apoll\documents\visual studio 2013\Projects\BaseKeyWord\BaseKeyWord\bin\Debug\BaseKeyWord.exe.config
+C:\Users\apoll\Documents\Visual Studio 2013\Projects\BaseKeyWord\BaseKeyWord\bin\Debug\BaseKeyWord.exe
+C:\Users\apoll\Documents\Visual Studio 2013\Projects\BaseKeyWord\BaseKeyWord\bin\Debug\BaseKeyWord.pdb
+C:\Users\apoll\Documents\Visual Studio 2013\Projects\BaseKeyWord\BaseKeyWord\obj\Debug\BaseKeyWord.exe
+C:\Users\apoll\Documents\Visual Studio 2013\Projects\BaseKeyWord\BaseKeyWord\obj\Debug\BaseKeyWord.pdb

@@ -1,0 +1,6 @@
+c:\users\apoll\documents\visual studio 2013\Projects\ArcMapAddin1\ArcMapAddin1\bin\Debug\ArcMapAddin1.dll
+c:\users\apoll\documents\visual studio 2013\Projects\ArcMapAddin1\ArcMapAddin1\bin\Debug\ArcMapAddin1.pdb
+c:\users\apoll\documents\visual studio 2013\Projects\ArcMapAddin1\ArcMapAddin1\obj\Debug\ArcMapAddin1.csprojResolveAssemblyReference.cache
+c:\users\apoll\documents\visual studio 2013\Projects\ArcMapAddin1\ArcMapAddin1\obj\Debug\ArcMapAddin1.dll
+c:\users\apoll\documents\visual studio 2013\Projects\ArcMapAddin1\ArcMapAddin1\obj\Debug\ArcMapAddin1.pdb
+c:\users\apoll\documents\visual studio 2013\Projects\ArcMapAddin1\ArcMapAddin1\bin\Debug\ArcMapAddin1.esriAddIn

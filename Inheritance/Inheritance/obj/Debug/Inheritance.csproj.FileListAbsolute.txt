@@ -1,0 +1,8 @@
+c:\users\apoll\documents\visual studio 2013\Projects\Inheritance\Inheritance\bin\Debug\Inheritance.exe.config
+c:\users\apoll\documents\visual studio 2013\Projects\Inheritance\Inheritance\obj\Debug\Inheritance.csprojResolveAssemblyReference.cache
+c:\users\apoll\documents\visual studio 2013\Projects\Inheritance\Inheritance\bin\Debug\Inheritance.exe
+c:\users\apoll\documents\visual studio 2013\Projects\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+c:\users\apoll\documents\visual studio 2013\Projects\Inheritance\Inheritance\obj\Debug\Inheritance.exe
+c:\users\apoll\documents\visual studio 2013\Projects\Inheritance\Inheritance\obj\Debug\Inheritance.pdb
+C:\Users\apoll\Documents\Visual Studio 2013\Projects\Inheritance\Inheritance\bin\Debug\ClassLibrary1.dll
+C:\Users\apoll\Documents\Visual Studio 2013\Projects\Inheritance\Inheritance\bin\Debug\ClassLibrary1.pdb
